@@ -4,18 +4,20 @@
     "url": "https://acuasoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/acuasoft.com.ico",
     "slug": "acuasoft-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 118,
-    "timeWeek": 225,
-    "timeMonth": 361,
-    "timeYear": 361,
-    "dailyMinutesDown": {}
+    "time": 1205,
+    "timeDay": 8674,
+    "timeWeek": 2351,
+    "timeMonth": 1205,
+    "timeYear": 1205,
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "app.tiemppi.com",
